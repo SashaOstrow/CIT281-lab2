@@ -1,3 +1,4 @@
+# Lab 2
 Lab goals and outcomes:
 
     Use CLI commands for directory and file manipulation
